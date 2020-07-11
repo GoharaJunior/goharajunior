@@ -37,7 +37,3 @@ Meu nome é Gohara Junior, apaixonado por Programação!
 
 - 📚 Atualmente estou estudando fortemente **JavaScript**
 - 📌 Meta: Entrar no mercado como **Dev Junior** e subir para próximo nivel.
-- 🚀 Levo meus estudos a serio, veja alguns **↓↓**
-  * 🔹 [Flex-box Samurai](https://builderall.com/)
-  * 🔹 [Mobile App Landing Page](https://github.com/GoharaJunior/mobile-app-landing-page)
-  * 🔹 [imersao-css](https://github.com/GoharaJunior/imersao-css)
