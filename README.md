@@ -1,1 +1,1 @@
-![gohara-logo](https://user-images.githubusercontent.com/57417305/87222446-14ab7a80-c34a-11ea-9c7d-c331155eef60.gif)
+![gohara-logo](https://user-images.githubusercontent.com/57417305/87222610-74eeec00-c34b-11ea-9803-00736d9ac97a.gif)
