@@ -9,24 +9,30 @@
 <p align="center">
     <!-- Badge - GitHub -->
   <a href="https://github.com/goharajunior">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/goharajunior">
+    <img src="https://img.shields.io/github/followers/goharajunior?style=social"/>  
   </a>
-
+  &nbsp; 
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/goharajunior/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goharajunior/">
   </a>
-
+  &nbsp;
   <!-- Badge - Gmail -->
   <a href="mailto:lucasgdbittencourt@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goharajunior@gmail.com">
   </a>
-
+  &nbsp;
   <!-- Badge - Twitter -->
   <a href="https://twitter.com/goharadev">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/goharadev">
   </a>
 </p>
+
+<!-- Card -->
+<div align="center">
+
+  [![Card](https://github-readme-stats.vercel.app/api?username=GoharaJunior&theme=shades-of-purple&show_icons=true)
+</div>
 
 <!-- Apresentação -->
 ## Eai, tranquilo ? 🤜🏼🤛🏼
@@ -37,3 +43,5 @@ Meu nome é Gohara Junior, apaixonado por Programação!
 
 - 📚 Atualmente estou estudando fortemente **JavaScript**
 - 📌 Meta: Entrar no mercado como **Dev Junior** e subir para próximo nivel.
+
+
