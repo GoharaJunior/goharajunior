@@ -4,12 +4,10 @@
   </a>
 </p>
 
-
 <p align="center">
-  <a href="">
-    <https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
-  </a>
+    <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
+
 
 <p align="center">
     <!-- Badge - GitHub -->
@@ -36,7 +34,7 @@
 <!-- Card -->
 <div align="center">
 
-  [![Card](https://github-readme-stats.vercel.app/api?username=GoharaJunior&theme=shades-of-purple&show_icons=true)
+  ![Card](https://github-readme-stats.vercel.app/api?username=GoharaJunior&theme=shades-of-purple&show_icons=true)
 </div>
 
 <!-- Apresentação -->
