@@ -41,7 +41,7 @@ Meu nome é Gohara Junior, apaixonado por Programação!
 - 📌 Meta: Entrar no mercado como **Dev Junior** e subir para próximo nivel.
 </br>
 
-**Tecnologias estou estudando:**
+**O que ando estudando:**
 <p align="left">
   <!-- JavaScript-LOGO -->
   <img src="https://user-images.githubusercontent.com/57417305/94342325-be63e480-ffe6-11ea-84ee-2d3fc09c22c6.png">&nbsp;
