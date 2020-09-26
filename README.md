@@ -30,9 +30,6 @@
   </a>
 </p>
 
-<!-- Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Apresentação -->
 ## Eai, tranquilo ? 🤜🏼🤛🏼
 
@@ -44,3 +41,11 @@ Meu nome é Gohara Junior, apaixonado por Programação!
 - 📌 Meta: Entrar no mercado como **Dev Junior** e subir para próximo nivel.
 
 
+<table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact'>
+    </td>
+  </row>
+</table>
