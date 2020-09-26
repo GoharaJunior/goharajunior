@@ -31,7 +31,7 @@
 </p>
 
 <!-- Apresentação -->
-**Eai, tranquilo ?** 🤜🏼🤛🏼
+### Eai, tranquilo ? 🤜🏼🤛🏼
 </br>
 Meu nome é Gohara Junior, apaixonado por Programação! 
 
