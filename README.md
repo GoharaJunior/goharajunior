@@ -35,7 +35,7 @@
 </br>
 Meu nome é Gohara Junior, apaixonado por Programação! 
 
-- 💼 Atualmente trabalho como **Web Designer** na empresa [Builderall](https://builderall.com/)
+- 💼 Atualmente trabalho como **Designer** na empresa [Builderall](https://builderall.com/)
 
 - 📚 Atualmente estou estudando fortemente **JavaScript**
 - 📌 Meta: Entrar no mercado como **Dev Junior** e subir para próximo nivel.
