@@ -48,7 +48,7 @@ Meu nome é Gohara Junior, apaixonado por Programação!
       <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark'>
     </td>
   </row>
 </table>
