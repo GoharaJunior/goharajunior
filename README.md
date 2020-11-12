@@ -40,34 +40,6 @@
 ---
 
 ### Tecnologias
-**Tenho experiência:**
-<p align="left">
-  <!-- HTML Icon -->
-  <img src="/icons-readme/html.png">&nbsp;
-  <!-- CSS Icon -->
-  <img src="/icons-readme/css.png">&nbsp;
-  <!-- JS Icon -->
-  <img src="/icons-readme/js.png">&nbsp;
-  <!-- React Icon -->
-  <img src="/icons-readme/react.png">&nbsp;
-  <!-- NodeJS Icon -->
-  <img src="/icons-readme/nodejs.png">&nbsp;
-</p>
-
-**Estou estudando:**
-<p align="left">
-  <!-- HTML Icon -->
-  <img src="/icons-readme/html.png">&nbsp;
-  <!-- CSS Icon -->
-  <img src="/icons-readme/css.png">&nbsp;
-  <!-- JS Icon -->
-  <img src="/icons-readme/js.png">&nbsp;
-  <!-- React Icon -->
-  <img src="/icons-readme/react.png">&nbsp;
-  <!-- NodeJS Icon -->
-  <img src="/icons-readme/nodejs.png">&nbsp;
-</p>
-
 **Estou estudando:**
 <p align="left">
   <!-- HTML Icon -->
