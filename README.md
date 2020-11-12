@@ -42,7 +42,7 @@
 **O que ando estudando:**
 <p align="left">
   <!-- JavaScript-LOGO -->
-  <img src="/icons-readme/html">&nbsp;
+  <img src="/icons-readme/html.png">&nbsp;
   <!-- React-LOGO -->
   <img src="https://user-images.githubusercontent.com/57417305/94342339-cde32d80-ffe6-11ea-8712-07d82790b3be.png">&nbsp;
   <!-- TS-LOGO -->
