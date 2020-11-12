@@ -41,6 +41,7 @@
 
 ### Tecnologias
 **Estou estudando:**
+
 <p align="left">
   <!-- HTML Icon -->
   <img src="/icons-readme/html.png">&nbsp;
@@ -52,6 +53,21 @@
   <img src="/icons-readme/react.png">&nbsp;
   <!-- NodeJS Icon -->
   <img src="/icons-readme/nodejs.png">&nbsp;
+  <!-- Git Icon -->
+  <img src="/icons-readme/git.png">&nbsp;
+  <!-- Figma Icon -->
+  <img src="/icons-readme/figma.png">&nbsp;
+</p>
+
+**Tenho interesse:**
+
+<p align="left">
+  <!-- TS Icon -->
+  <img src="/icons-readme/ts.png">&nbsp;
+  <!-- RN Icon -->
+  <img src="/icons-readme/rn.png">&nbsp;
+  <!-- NextJS Icon -->
+  <img src="/icons-readme/nextJS.png">&nbsp;
 </p>
 
 <table align='left'>
