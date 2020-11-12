@@ -30,7 +30,7 @@
 </p>
 
 <!-- Apresentação -->
-###<img src="/icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
+### <img src="/icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
 
 <p>Sou designer, mas com foco em se tornar um desenvolvedor de elite e trabalhar entre os melhores como, especialista *Front-end* em grandes empresas.</p>
 
