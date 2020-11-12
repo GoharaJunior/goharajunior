@@ -45,7 +45,7 @@
 
 ---
 
-### Tecnologias
+### 👨🏼‍💻 Tecnologias
 **Estou estudando:**
 
 <p align="left">
