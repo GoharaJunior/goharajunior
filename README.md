@@ -31,11 +31,18 @@
 
 <!-- Apresentação -->
 ### <img src="/icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
-<p>Sou designer, mas com foco em se tornar um desenvolvedor de elite e trabalhar entre os melhores como especialista Front-end em grandes empresas.</p>
+
+<p>Sou designer, mas com foco em se tornar um desenvolvedor de elite e trabalhar entre os melhores como, especialista *Front-end* em grandes empresas.</p>
 
 <p>Meu forte tende a puxar para o Front-end pelos anos de experiência trabalhando na área criativa, mas também pretendo dar uma aprofundada nos conhecimentos em back-end para poder saber me virar um pouco.</p>
 
 <p>Mantenho um rigoroso cronograma de estudos focado em meus objetivos, evoluindo dia a pós dia. Não tenho experiência real no campo de batalha, mas te convido a olhar meus projetos de estudo e tirar suas próprias conclusões.</p>
+
+---
+
+**🎯 Objetivo para subir para o próximo nível 🎯** 
+<p>📌 Entrar no mercado como Front-end Jr.</p>
+
 
 ---
 
@@ -69,6 +76,8 @@
   <!-- NextJS Icon -->
   <img src="/icons-readme/nextJS.png">&nbsp;
 </p>
+
+---
 
 <table align='left'>
   <row>
