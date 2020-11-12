@@ -40,9 +40,8 @@
 
 ---
 
-#### 🎯 Objetivo para subir para o próximo nível 🎯
+### 🎯 Objetivo para subir para o próximo nível 🎯
 <p>📌 Entrar no mercado como Front-end Jr.</p>
-
 
 ---
 
