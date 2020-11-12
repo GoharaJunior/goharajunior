@@ -38,20 +38,48 @@
 <p>Mantenho um rigoroso cronograma de estudos focado em meus objetivos, evoluindo dia a pós dia. Não tenho experiência real no campo de batalha, mas te convido a olhar meus projetos de estudo e tirar suas próprias conclusões.</p>
 
 ---
-### Tecnologia
-**O que ando estudando:**
+
+### Tecnologias
+**Tenho experiência:**
 <p align="left">
-  <!-- JavaScript-LOGO -->
+  <!-- HTML Icon -->
   <img src="/icons-readme/html.png">&nbsp;
-  <!-- React-LOGO -->
-  <img src="https://user-images.githubusercontent.com/57417305/94342339-cde32d80-ffe6-11ea-8712-07d82790b3be.png">&nbsp;
-  <!-- TS-LOGO -->
-  <img src="https://user-images.githubusercontent.com/57417305/94342555-2a931800-ffe8-11ea-8ddc-e804cfb25187.png">&nbsp;
-  <!-- HTML-LOGO -->
-  <img src="https://user-images.githubusercontent.com/57417305/94342505-c8d2ae00-ffe7-11ea-8c69-ee849079dd05.png">&nbsp;
-  <!-- CSS-LOGO -->
-  <img src="https://user-images.githubusercontent.com/57417305/94342506-c96b4480-ffe7-11ea-96a9-8b92c83a0179.png">&nbsp;
+  <!-- CSS Icon -->
+  <img src="/icons-readme/css.png">&nbsp;
+  <!-- JS Icon -->
+  <img src="/icons-readme/js.png">&nbsp;
+  <!-- React Icon -->
+  <img src="/icons-readme/react.png">&nbsp;
+  <!-- NodeJS Icon -->
+  <img src="/icons-readme/nodejs.png">&nbsp;
 </p>
+
+**Estou estudando:**
+<p align="left">
+  <!-- HTML Icon -->
+  <img src="/icons-readme/html.png">&nbsp;
+  <!-- CSS Icon -->
+  <img src="/icons-readme/css.png">&nbsp;
+  <!-- JS Icon -->
+  <img src="/icons-readme/js.png">&nbsp;
+  <!-- React Icon -->
+  <img src="/icons-readme/react.png">&nbsp;
+  <!-- NodeJS Icon -->
+  <img src="/icons-readme/nodejs.png">&nbsp;
+</p>
+
+**Estou estudando:**
+<p align="left">
+  <!-- HTML Icon -->
+  <img src="/icons-readme/html.png">&nbsp;
+  <!-- CSS Icon -->
+  <img src="/icons-readme/css.png">&nbsp;
+  <!-- JS Icon -->
+  <img src="/icons-readme/js.png">&nbsp;
+  <!-- React Icon -->
+  <img src="/icons-readme/react.png">&nbsp;
+  <!-- NodeJS Icon -->
+  <img src="/icons-readme/nodejs.png">&nbsp;
 </p>
 
 <table align='left'>
