@@ -31,7 +31,7 @@
 </p>
 
 <!-- Apresentação -->
-<img src="/icons-readme/hello.gif" width="30px"> ### Eai, Meu Nome é Gohara Junior 🤜🤛
+### <img src="/icons-readme/hello.gif" width="30px">Eai, Meu Nome é Gohara Junior
 
 </br>
 Sou designer, mas com foco em se tornar um desenvolvedor de elite, e trabalhar entre os melhores como especialista Front-end em grandes empresas.Meu forte tende a puxar para o Front-end pelos anos de experiência trabalhando na área criativa, mas também pretendo dar uma aprofundada nos conhecimentos em back-end para poder saber me virar um pouco.
