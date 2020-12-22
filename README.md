@@ -9,9 +9,9 @@
 </p>
   &nbsp;
 <p align="center">
-    <!-- Badge - GitHub -->
+  <!-- Badge - Visitas -->
   <a href="https://github.com/goharajunior">
-    <img src="https://img.shields.io/github/followers/goharajunior?style=social"/>  
+    <img src="https://visitor-badge.glitch.me/badge?page_id=goharaJunior.goharaJunior" alt="Visitas">
   </a>
   &nbsp;
   <!-- Badge - LinkedIn -->
