@@ -28,6 +28,11 @@
   <a href="https://twitter.com/goharadev">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/goharadev">
   </a>
+   &nbsp;
+    <!-- Badge - My Settings -->
+  <a href="https://github.com/GoharaJunior/My-Settings">
+    <img src="https://img.shields.io/badge/-%20My%20Settings-blueviolet">
+  </a>
 </p>
 
 <!-- Apresentação -->
