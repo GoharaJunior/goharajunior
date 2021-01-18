@@ -65,6 +65,8 @@
   <img src="/icons-readme/react.png">&nbsp;
   <!-- Git Icon -->
   <img src="/icons-readme/git.png">&nbsp;
+   <!-- NodeJS Icon -->
+  <img src="/icons-readme/nodejs.png">&nbsp;
   <!-- Figma Icon -->
   <img src="/icons-readme/figma.png">&nbsp;
 </p>
@@ -72,8 +74,6 @@
 **Tenho interesse:**
 
 <p align="left">
-  <!-- NodeJS Icon -->
-  <img src="/icons-readme/nodejs.png">&nbsp;
   <!-- TS Icon -->
   <img src="/icons-readme/ts.png">&nbsp;
   <!-- RN Icon -->
