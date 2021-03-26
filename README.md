@@ -61,12 +61,12 @@
   <img src="/icons-readme/js.png">&nbsp;
   <!-- React Icon -->
   <img src="/icons-readme/react.png">&nbsp;
+  <!-- NextJS Icon -->
+  <img src="/icons-readme/nextJS.png">&nbsp;
   <!-- TS Icon -->
   <img src="/icons-readme/ts.png">&nbsp;
   <!-- Git Icon -->
   <img src="/icons-readme/git.png">&nbsp;
-   <!-- NextJS Icon -->
-  <img src="/icons-readme/nextJS.png">&nbsp;
   <!-- Figma Icon -->
   <img src="/icons-readme/figma.png">&nbsp;
 </p>
