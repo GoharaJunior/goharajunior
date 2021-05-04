@@ -61,10 +61,6 @@
   <img src="/icons-readme/js.png">&nbsp;
   <!-- React Icon -->
   <img src="/icons-readme/react.png">&nbsp;
-  <!-- NextJS Icon -->
-  <img src="/icons-readme/nextJS.png">&nbsp;
-  <!-- TS Icon -->
-  <img src="/icons-readme/ts.png">&nbsp;
   <!-- Git Icon -->
   <img src="/icons-readme/git.png">&nbsp;
   <!-- Figma Icon -->
@@ -78,6 +74,10 @@
   <img src="/icons-readme/rn.png">&nbsp;
   <!-- NodeJS Icon -->
   <img src="/icons-readme/nodejs.png">&nbsp;
+  <!-- NextJS Icon -->
+  <img src="/icons-readme/nextJS.png">&nbsp;
+  <!-- TS Icon -->
+  <img src="/icons-readme/ts.png">&nbsp;
 </p>
 
 ---
