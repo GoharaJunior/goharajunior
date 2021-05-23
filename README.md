@@ -36,44 +36,63 @@
 </p>
 
 <!-- Apresentação -->
-### <img src="/icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
+### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
 
 ---
 
 ### 🎯 Objetivo para subir para o próximo nível 🎯
-<p>📌 Entrar no mercado como Front-end Jr.</p> 
+~~<p>📌 Entrar no mercado como Front-end Jr.</p>~~
+<p>📌 Focar em aprender implementações de lojas virtuais e todas as tecnologias que envolve esse eco sistema.</p>
 
 ---
+### 💻 Plataformas E-Commerce
+**Estou estudando:**
+<p align="left">
+  <!-- TRAY Icon -->
+  <a href="https://www.traycorp.com.br/" target="_blank">
+    <img src="./icons-readme/tray.png">&nbsp;
+  </a>
+</p>
 
 ### 👨🏼‍💻 Tecnologias
 **Estou estudando:**
 
+
+<p align="left">
+  <!-- CSS Icon -->
+  <img src="./icons-readme/css.png">&nbsp;
+  <!-- JS Icon -->
+    <img src="./icons-readme/js.png">&nbsp;
+  <!-- Twig Icon -->
+  <a href="https://twig.symfony.com/" target="_blank">
+    <img src="./icons-readme/twig.png" alt="Twig Lang">&nbsp;
+  </a>
+
+</p>
+
+**Tenho experiência**
 <p align="left">
   <!-- HTML Icon -->
-  <img src="/icons-readme/html.png">&nbsp;
-  <!-- CSS Icon -->
-  <img src="/icons-readme/css.png">&nbsp;
-  <!-- JS Icon -->
-  <img src="/icons-readme/js.png">&nbsp;
-  <!-- React Icon -->
-  <img src="/icons-readme/react.png">&nbsp;
-  <!-- Git Icon -->
-  <img src="/icons-readme/git.png">&nbsp;
+  <img src="./icons-readme/html.png">&nbsp;
   <!-- Figma Icon -->
-  <img src="/icons-readme/figma.png">&nbsp;
+  <img src="./icons-readme/figma.png">&nbsp;
+  <!-- Git Icon -->
+  <img src="./icons-readme/git.png">&nbsp;
 </p>
 
 **Tenho interesse:**
 
 <p align="left">
-  <!-- RN Icon -->
-  <img src="/icons-readme/rn.png">&nbsp;
-  <!-- NodeJS Icon -->
-  <img src="/icons-readme/nodejs.png">&nbsp;
-  <!-- NextJS Icon -->
-  <img src="/icons-readme/nextJS.png">&nbsp;
+  <!-- React Icon -->
+  <img src="./icons-readme/react.png">&nbsp;
   <!-- TS Icon -->
-  <img src="/icons-readme/ts.png">&nbsp;
+  <img src="./icons-readme/ts.png">&nbsp;
+  <!-- NextJS Icon -->
+  <img src="./icons-readme/nextJS.png">&nbsp;
+  <!-- RN Icon -->
+  <img src="./icons-readme/rn.png">&nbsp;
+  <!-- NodeJS Icon -->
+  <img src="./icons-readme/nodejs.png">&nbsp;
 </p>
 
 ---
