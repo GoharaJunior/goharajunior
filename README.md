@@ -77,6 +77,8 @@
   <img src="./icons-readme/html.png">&nbsp;
   <!-- Figma Icon -->
   <img src="./icons-readme/figma.png">&nbsp;
+  <!-- Adobe XD -->
+  <img src="./icons-readme/adobexd.png">&nbsp;
   <!-- Git Icon -->
   <img src="./icons-readme/git.png">&nbsp;
 </p>
