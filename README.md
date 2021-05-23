@@ -41,8 +41,9 @@
 ---
 
 ### 🎯 Objetivo para subir para o próximo nível 🎯
-~~<p>📌 Entrar no mercado como Front-end Jr.</p>~~
-<p>📌 Focar em aprender implementações de lojas virtuais e todas as tecnologias que envolve esse eco sistema.</p>
+<p>
+  📌 Focar em aprender implementações de lojas virtuais e todas as tecnologias que envolve esse eco sistema.
+</p>
 
 ---
 ### 💻 Plataformas E-Commerce
