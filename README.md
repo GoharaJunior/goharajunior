@@ -68,7 +68,10 @@
   <a href="https://twig.symfony.com/" target="_blank">
     <img src="./icons-readme/twig.png" alt="Twig Lang">&nbsp;
   </a>
-
+  <!-- jQuery Icon -->
+  <a href="#" target="_blank">
+    <img src="./icons-readme/jquery.png">&nbsp;
+  </a>
 </p>
 
 **Tenho experiência**
