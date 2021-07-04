@@ -38,14 +38,16 @@
 <!-- Apresentação -->
 ### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
 
+---
+
 ### 🎯 Objetivo para subir para o próximo nível 🎯
 <p>
   📌 Focar em aprender implementações de lojas virtuais e todas as tecnologias que envolve esse eco sistema.
 </p>
 
 ---
-### 💻 <strong>Plataformas E-Commerce</strong>
-Estou estudando:
+## 💻 <strong>Plataformas E-Commerce</strong>
+**Estou estudando ↴**
 <p align="left">
   <!-- TRAY Icon -->
   <a href="https://www.traycorp.com.br/" target="_blank">
@@ -53,7 +55,7 @@ Estou estudando:
   </a>
 </p>
 
-**Tenho interesse:**
+**Tenho interesse ↴**
 <p align="left">
   <!-- TRAY Icon -->
   <a href="https://www.traycorp.com.br/" target="_blank">
@@ -63,8 +65,8 @@ Estou estudando:
 
 ---
 
-### 👨🏼‍💻 <strong>Tecnologias</strong>
-**Estou estudando:**
+## 👨🏼‍💻 <strong>Tecnologias</strong>
+**Estou estudando ↴**
 
 
 <p align="left">
@@ -82,7 +84,7 @@ Estou estudando:
   </a>
 </p>
 
-**Tenho experiência**
+**Tenho experiência ↴**
 <p align="left">
   <!-- HTML Icon -->
   <img src="./icons-readme/html.png">&nbsp;
@@ -94,7 +96,7 @@ Estou estudando:
   <img src="./icons-readme/adobexd.png">&nbsp;
 </p>
 
-**Tenho interesse:**
+**Tenho interesse ↴**
 
 <p align="left">
   <!-- React Icon -->
