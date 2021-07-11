@@ -74,8 +74,6 @@
 
 
 <p align="left">
-  <!-- CSS Icon -->
-  <img src="./icons-readme/css.png">&nbsp;
   <!-- JS Icon -->
     <img src="./icons-readme/js.png">&nbsp;
   <!-- Twig Icon -->
@@ -90,6 +88,8 @@
 
 **Tenho experiência ↴**
 <p align="left">
+  <!-- CSS Icon -->
+  <img src="./icons-readme/css.png">&nbsp;
   <!-- HTML Icon -->
   <img src="./icons-readme/html.png">&nbsp;
   <!-- Git Icon -->
