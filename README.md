@@ -1,3 +1,7 @@
+  &nbsp;
+<p align="center">
+    <img src="./icons-readme/hc-banner.png">
+</p>
 <p align="center">
   <a href="">
     <img src="https://user-images.githubusercontent.com/57417305/87222610-74eeec00-c34b-11ea-9803-00736d9ac97a.gif">
