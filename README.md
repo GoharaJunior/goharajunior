@@ -128,3 +128,8 @@
     </td>
   </row>
 </table>
+
+<!-- Commit's animation -->
+<p align="left">
+  <img src="./icons-readme/github-contribution-grid-snake.svg">
+</p>
