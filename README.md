@@ -121,10 +121,10 @@
   <row>
     <td>
      <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=goharajunior&layout=compact'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=goharajunior&show_icons=true&theme=dark'>
     </td>
   </row>
 </table>
