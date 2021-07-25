@@ -1,16 +1,26 @@
   &nbsp;
+<!-- Hiring Coders Banner -->
 <p align="center">
     <img src="./icons-readme/hc-banner.png">
 </p>
+<!-- Gif Logo -->
 <p align="center">
   <a href="">
     <img src="https://user-images.githubusercontent.com/57417305/87222610-74eeec00-c34b-11ea-9803-00736d9ac97a.gif">
   </a>
 </p>
   &nbsp;
+<!-- Gif Traço -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
+ &nbsp;
+<!-- Auaua Gif -->
+<di style="display: flex; justify-content: center">
+  <a href="https://auaha.com.br/" target="_blank">
+    <img width="150px" src="./icons-readme/auaha.gif">
+  </a>
+</di>
   &nbsp;
 <p align="center">
   <!-- Badge - Visitas -->
@@ -41,13 +51,6 @@
 
 <!-- Apresentação -->
 ### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
-
-<di style="display: flex; align-items: center">
-  <p>Desenvolvedor Front-end na: </p>
-  <a style="padding-bottom: 20px" href="https://auaha.com.br/" target="_blank">
-    <img width="100px" src="./icons-readme/auaha.gif">
-  </a>
-</di>
 
 ---
 
