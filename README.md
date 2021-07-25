@@ -42,6 +42,19 @@
 <!-- Apresentação -->
 ### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
 
+<div style="">
+  <p>
+  Desenvolvedor Front-end na: 
+  <img width="100px"src="./icons-readme/auaha.gif">&nbsp
+  </p>
+</div>
+
+<di align="center">
+  <a href="https://auaha.com.br/" target="_blank">
+    <img width="100px" src="./icons-readme/auaha.gif">&nbsp;
+  </a>
+</di>
+
 ---
 
 ### 🎯 Objetivo para subir para o próximo nível 🎯
