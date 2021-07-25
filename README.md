@@ -16,11 +16,11 @@
 </p>
  &nbsp;
 <!-- Auaua Gif -->
-<di style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center">
   <a href="https://auaha.com.br/" target="_blank">
     <img width="150px" src="./icons-readme/auaha.gif">
   </a>
-</di>
+</div>
   &nbsp;
 <p align="center">
   <!-- Badge - Visitas -->
