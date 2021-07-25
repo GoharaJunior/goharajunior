@@ -42,16 +42,10 @@
 <!-- Apresentação -->
 ### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
 
-<div style="">
-  <p>
-  Desenvolvedor Front-end na: 
-  <img width="100px"src="./icons-readme/auaha.gif">&nbsp
-  </p>
-</div>
-
-<di align="center">
-  <a href="https://auaha.com.br/" target="_blank">
-    <img width="100px" src="./icons-readme/auaha.gif">&nbsp;
+<di style="display: flex; align-items: center">
+  <p>Desenvolvedor Front-end na: </p>
+  <a style="padding-bottom: 20px" href="https://auaha.com.br/" target="_blank">
+    <img width="100px" src="./icons-readme/auaha.gif">
   </a>
 </di>
 
