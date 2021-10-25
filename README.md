@@ -78,20 +78,6 @@
 
 ---
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 💪 Opened PR [#19](https://github.com/nextcord/nextcord-ext-menus/pull/19) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-3. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. ❗️ Closed issue [#191](https://github.com/DenverCoder1/github-readme-streak-stats/issues/191) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-<!--END_SECTION:activity-->
-</details>
-
 ## 🛠 <strong>Tech Stack ↴</strong>
 <p align="left">
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>&nbsp;
