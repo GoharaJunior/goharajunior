@@ -47,7 +47,6 @@
   <a href="https://github.com/GoharaJunior/My-Settings">
     <img src="https://img.shields.io/badge/-%20My%20Settings-blueviolet">
   </a>
-</p>
 
 <!-- Apresentação -->
 ### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
@@ -79,51 +78,37 @@
 
 ---
 
-## 👨🏼‍💻 <strong>Tecnologias</strong>
-**Estou estudando ↴**
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
 
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 💪 Opened PR [#19](https://github.com/nextcord/nextcord-ext-menus/pull/19) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+3. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ❗️ Closed issue [#191](https://github.com/DenverCoder1/github-readme-streak-stats/issues/191) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!--END_SECTION:activity-->
+</details>
 
+## 🛠 <strong>Tech Stack ↴</strong>
 <p align="left">
-  <!-- JS Icon -->
-    <img src="./icons-readme/js.png">&nbsp;
-  <!-- Twig Icon -->
-  <a href="https://twig.symfony.com/" target="_blank">
-    <img src="./icons-readme/twig.png" alt="Twig Lang">&nbsp;
-  </a>
-  <!-- jQuery Icon -->
-  <a href="#" target="_blank">
-    <img src="./icons-readme/jquery.png">&nbsp;
-  </a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>&nbsp;
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>&nbsp;
+  <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>&nbsp;
 </p>
 
-**Tenho experiência ↴**
 <p align="left">
-  <!-- CSS Icon -->
-  <img src="./icons-readme/css.png">&nbsp;
-  <!-- HTML Icon -->
-  <img src="./icons-readme/html.png">&nbsp;
-  <!-- Git Icon -->
-  <img src="./icons-readme/git.png">&nbsp;
-  <!-- Figma Icon -->
-  <img src="./icons-readme/figma.png">&nbsp;
-  <!-- Adobe XD -->
-  <img src="./icons-readme/adobexd.png">&nbsp;
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>&nbsp;
+  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>&nbsp;
 </p>
 
-**Tenho interesse ↴**
-
-<p align="left">
-  <!-- React Icon -->
-  <img src="./icons-readme/react.png">&nbsp;
-  <!-- TS Icon -->
-  <img src="./icons-readme/ts.png">&nbsp;
-  <!-- NextJS Icon -->
-  <img src="./icons-readme/nextJS.png">&nbsp;
-  <!-- RN Icon -->
-  <img src="./icons-readme/rn.png">&nbsp;
-  <!-- NodeJS Icon -->
-  <img src="./icons-readme/nodejs.png">&nbsp;
-</p>
 
 ---
 
