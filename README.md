@@ -1,8 +1,3 @@
-  &nbsp;
-<!-- Hiring Coders Banner -->
-<p align="center">
-    <img src="./icons-readme/hc-banner.png">
-</p>
 <!-- Gif Logo -->
 <p align="center">
   <a href="">
@@ -50,14 +45,7 @@
 
 <!-- Apresentação -->
 ### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
-
----
-
-### 🎯 Objetivo para subir para o próximo nível 🎯
-<p>
-  📌 Focar em aprender implementações de lojas virtuais e todas as tecnologias que envolve esse eco sistema.
-</p>
-
+  
 ---
 ## 💻 <strong>Plataformas E-Commerce</strong>
 **Estou estudando ↴**
@@ -95,22 +83,3 @@
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>&nbsp;
 </p>
 
-
----
-
-<table align='left'>
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=goharajunior&layout=compact'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=goharajunior&show_icons=true&theme=dark'>
-    </td>
-  </row>
-</table>
-
-<!-- Commit's animation -->
-<p align="left">
-  <img src="./icons-readme/github-contribution-grid-snake.svg">
-</p>
