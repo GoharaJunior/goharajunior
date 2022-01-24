@@ -18,11 +18,6 @@
 </p>
   &nbsp;
 <p align="center">
-  <!-- Badge - Visitas -->
-  <a href="https://github.com/goharajunior">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=goharajunior.goharajunior" alt="Visitas">
-  </a>
-  &nbsp;
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/goharajunior/">
     <img src="https://img.shields.io/badge/-Gohara Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goharajunior/">
