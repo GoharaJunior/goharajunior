@@ -39,13 +39,17 @@
   
 ---
 ## 💻 <strong>Plataformas E-Commerce</strong>
-**Estou estudando ↴**
+  
+**Tenho experiência ↴**
 <p align="left">
   <!-- TRAY Icon -->
   <a href="https://www.traycorp.com.br/" target="_blank">
     <img src="./icons-readme/tray.png">&nbsp;
   </a>
 </p>
+  
+**Estou estudando ↴**
+
 
 **Tenho interesse ↴**
 <p align="left">
