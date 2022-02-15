@@ -9,13 +9,7 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
 </p>
- &nbsp;
-<!-- Auaua Gif -->
-<p align="center">
-  <a href="https://auaha.com.br/" target="_blank">
-    <img width="150px" src="./icons-readme/auaha.gif">
-  </a>
-</p>
+
   &nbsp;
 <p align="center">
   <!-- Badge - LinkedIn -->
