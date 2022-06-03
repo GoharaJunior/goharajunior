@@ -24,7 +24,7 @@
    &nbsp;
 
 <!-- Apresentação -->
-### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
+### 👋🏼 Olá, Meu Nome é Gohara Junior
   
 ---
 ## 💻 <strong>Plataformas E-Commerce</strong>
