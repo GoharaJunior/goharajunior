@@ -22,9 +22,10 @@
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/goharadev">
   </a>
    &nbsp;
+</p>
 
 <!-- Apresentação -->
-### 👋🏼 Olá, Meu Nome é Gohara Junior
+### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
   
 ---
 ## 💻 <strong>Plataformas E-Commerce</strong>
@@ -32,10 +33,21 @@
 **Tenho experiência ↴**
 <p align="left">
   <!-- TRAY Icon -->
-  <a href="https://www.traycorp.com.br/" target="_blank">
+    <a href="https://www.traycorp.com.br/" target="_blank">
     <img src="./icons-readme/tray.png">&nbsp;
   </a>
+  <a href="https://www.traycorp.com.br/" target="_blank">
+    <img src="./icons-readme/selo-tray-2.png" width="50px">&nbsp;
+  </a>
 </p>
+
+<p align="left">
+  <!-- TRAY Icon -->
+
+</p>
+  
+**Estou estudando ↴**
+
 
 **Tenho interesse ↴**
 <p align="left">
@@ -55,5 +67,12 @@
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>&nbsp;
   <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>&nbsp;
   <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>&nbsp;
+</p>
+
+<p align="left">
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>&nbsp;
+  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>&nbsp;
 </p>
 
