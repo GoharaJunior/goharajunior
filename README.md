@@ -25,7 +25,7 @@
 </p>
 
 <!-- Apresentação -->
-### <img src="./icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Gohara Junior
+## <img src="./icons-readme/hello.gif" width="30px" height="30px"> Olá, Meu Nome é Gohara Junior
   
 ---
 ## 💻 <strong>Plataformas E-Commerce</strong>
