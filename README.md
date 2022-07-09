@@ -26,8 +26,6 @@
 
 <!-- Apresentação -->
 ## <img src="./icons-readme/hello.gif" width="30px" height="30px"> Olá, Meu Nome é Gohara Junior
-  
----
 
 ## 🛠 <strong>Tech Stack ↴</strong>
 <p align="left">
