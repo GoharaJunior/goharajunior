@@ -28,6 +28,7 @@
 ## <img src="./icons-readme/hello.gif" width="30px" height="30px"> Olá, Meu Nome é Gohara Junior
   
 ---
+
 ## 🛠 <strong>Tech Stack ↴</strong>
 <p align="left">
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>&nbsp;
@@ -37,6 +38,7 @@
   <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>&nbsp;
   <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>&nbsp;
 </p>
+
 ---
 
 ## 💻 <strong>Plataformas E-Commerce</strong>
