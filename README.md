@@ -40,27 +40,20 @@
 ---
 
 ## 💻 <strong>Plataformas E-Commerce</strong>
-
   
-<div style="display:flex;">
-  <div style="margin-right: 30px;padding-right: 30px;border-right: 2px solid #30363D">
-
-  **Tenho experiência ↴**
-  <p>
-    <!-- TRAY Icon -->
+**Tenho experiência ↴**
+<p align="left">
+  <!-- TRAY Icon -->
     <a href="https://www.tray.com.br/" target="_blank">
-      <img src="./icons-readme/tray.png">&nbsp;
-    </a>
-  </p>
-  </div>
-  <div>
+    <img src="./icons-readme/tray.png">&nbsp;
+  </a>
+</p>
 
-  **Tenho interesse ↴**
-  <p>
-    <!-- VTEX Icon -->
-    <a href="https://www.traycorp.com.br/" target="_blank">
-      <img src="./icons-readme/vtex.png">&nbsp;
-    </a>
-  </p>
-  </div>
-</div>
+**Tenho interesse ↴**
+<p align="left">
+  <!-- VTEX Icon -->
+  <a href="https://www.traycorp.com.br/" target="_blank">
+    <img src="./icons-readme/vtex.png">&nbsp;
+  </a>
+</p>
+
