@@ -14,12 +14,12 @@
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/goharajunior/">
-    <img src="https://img.shields.io/badge/-Gohara Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goharajunior/">
+    <img src="https://img.shields.io/badge/Gohara-0A66C2?logo=linkedin&logoColor=fff&style=flat&link=https://www.linkedin.com/in/goharajunior/">
   </a>
   &nbsp;
   <!-- Badge - Twitter -->
   <a href="https://twitter.com/goharadev">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/goharadev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat&link=https://twitter.com/goharadev">
   </a>
    &nbsp;
 </p>
@@ -46,8 +46,11 @@
   <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>&nbsp;
 </p>
 
----
+### ➜ Já vi algo, mas não profundo
+<a href="#"><img alt="node" src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat"></a>&nbsp;
+<a href="#"><img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat"></a>&nbsp;
 
+---
 ## 💻 <strong>Plataformas E-Commerce</strong>
   
 **Tenho experiência ↴**
