@@ -27,6 +27,20 @@
 <!-- Apresentação -->
 ## <img src="./icons-readme/hello.gif" width="30px" height="30px"> Olá, Meu Nome é Gohara Junior
 
+<p>Trabalhei durante 6 anos como Designer em uma empresa americana e sempre estudava programação por fora para poder ingressar na área o quanto antes. No meio de 2021 recebi uma oportunidade de poder estar como dev em tempo integral no qual me fez crescer e expandir meus conhecimentos de fato.</p>
+
+<p>Atualmente atuo na implementação e melhorias de lojas de e-commerce, aonde na implementação sempre seguindo a previa do projeto tentando sempre manter o pixel perfect, ter experiência com design me fez ter mais independência na hora de criar algo, caso não tenha uma previa estabelecida pelo designer.</p>
+
+### <b>⭐ Diferencial:</b>
+
+  * Proativo
+  * Transparência
+  * Trabalho em grupo
+  * Dou o meu melhor sempre
+  * Visando e dando dicas de como melhorar cada processo</p>
+
+---
+
 ## 🔥 <strong>Ferramentas ↴</strong>
 <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat"></a>&nbsp;
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat"></a>&nbsp;
