@@ -31,14 +31,6 @@
 
 <p>Atualmente atuo na implementação e melhorias de lojas de e-commerce, aonde na implementação sempre seguindo a previa do projeto tentando sempre manter o pixel perfect, ter experiência com design me fez ter mais independência na hora de criar algo, caso não tenha uma previa estabelecida pelo designer.</p>
 
-### <b>⭐ Diferencial:</b>
-
-  * Proativo
-  * Transparência
-  * Trabalho em grupo
-  * Dou o meu melhor sempre
-  * Visando e dando dicas de como melhorar cada processo</p>
-
 ---
 
 ## 🔥 <strong>Ferramentas ↴</strong>
