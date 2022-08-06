@@ -75,3 +75,8 @@
   </a>
 </p>
 
+<h1 align="center">
+    <img width="200px" alt="Logo Agency Landing Page" src="https://user-images.githubusercontent.com/57417305/89026559-5010e780-d2ff-11ea-93e5-9731085ab2b1.gif" />
+    <img alt="Logo Agency Landing Page" src="./icons-readme/thanks.png" />
+    <img width="200px" alt="Logo Agency Landing Page" src="https://user-images.githubusercontent.com/57417305/89027087-42a82d00-d300-11ea-8396-9c567ef2266a.gif" />
+</h1>
