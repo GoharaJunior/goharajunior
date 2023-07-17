@@ -50,10 +50,11 @@
 <p align="left">
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>&nbsp;
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>&nbsp;
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>&nbsp;
+  <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>&nbsp; 
   <a href="#"><img alt="Stylus" src="https://img.shields.io/badge/Stylus-333?logo=stylus&logoColor=fff&style=flat"></a>&nbsp;
   <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>&nbsp;
   <a href="#"><img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=flat"></a>&nbsp;
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>&nbsp;
   <!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>&nbsp; -->
   <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>&nbsp;
 </p>
