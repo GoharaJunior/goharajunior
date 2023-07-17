@@ -54,32 +54,11 @@
   <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>&nbsp;
   <a href="#"><img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=flat"></a>&nbsp;
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>&nbsp;
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>&nbsp;
+  <!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>&nbsp; -->
   <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>&nbsp;
 </p>
 
-### ➜ Já vi algo, mas não profundo
-<a href="#"><img alt="node" src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat"></a>&nbsp;
-<a href="#"><img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat"></a>&nbsp;
-
 ---
-## 💻 <strong>Plataformas E-Commerce</strong>
-  
-**Tenho experiência ↴**
-<p align="left">
-  <!-- TRAY Icon -->
-    <a href="https://www.tray.com.br/" target="_blank">
-    <img src="./icons-readme/tray.png">&nbsp;
-  </a>
-</p>
-
-**Tenho interesse ↴**
-<p align="left">
-  <!-- VTEX Icon -->
-  <a href="https://vtex.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VTEX-ED125F?logo=vtex&logoColor=fff&style=flat)">&nbsp;
-  </a>
-</p>
 
 <h1 align="center">
     <img width="200px" alt="Logo Agency Landing Page" src="https://user-images.githubusercontent.com/57417305/89026559-5010e780-d2ff-11ea-93e5-9731085ab2b1.gif" />
