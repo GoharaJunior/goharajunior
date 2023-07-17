@@ -27,9 +27,15 @@
 <!-- Apresentação -->
 ## <img src="./icons-readme/hello.gif" width="30px" height="30px"> Olá, Meu Nome é Gohara Junior
 
-<p>Trabalhei durante seis anos como designer em uma empresa americana, ao mesmo tempo em que estudava programação por conta própria, visando ingressar nessa área o mais rápido possível. No meio de 2021, surgiu uma oportunidade de me tornar desenvolvedor em tempo integral, o que me permitiu crescer e expandir meus conhecimentos de fato.</p>
+<p>Trabalhei como designer por seis anos em uma empresa americana, e sempre estudei programação por conta própria para poder ingressar nessa área o mais rápido possível.</p>
 
-<p>Atualmente, trabalho na implementação e aprimoramento de lojas de e-commerce. Durante a implementação, sempre busco seguir a prévia do projeto, buscando manter a perfeição nos mínimos detalhes. Minha experiência em design me proporciona maior independência ao criar algo, caso não haja uma prévia estabelecida pelo designer.</p>
+<p>Recebi uma oportunidade de trabalhar como programador em tempo integral, o que me fez crescer e expandir meus conhecimentos de fato.</p>
+
+<p>Atualmente, atuo na implementação e aprimoramento de lojas de e-commerce. Durante a implementação, sempre busco seguir a prévia do projeto, procurando manter a perfeição em cada detalhe.</p>
+
+<p>Minha experiência em design me proporcionou mais independência na hora de criar algo, caso não haja uma prévia estabelecida pelo designer.</p>
+
+<p></p>
 
 ---
 
