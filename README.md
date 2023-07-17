@@ -39,7 +39,7 @@
 
 ---
 
-## 🔥 <strong>Ferramentas ↴</strong>
+## 🛠 <strong>Ferramentas ↴</strong>
 <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat"></a>&nbsp;
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat"></a>&nbsp;
 <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat"></a>&nbsp;
