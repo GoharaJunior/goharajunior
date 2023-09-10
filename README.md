@@ -27,15 +27,11 @@
 <!-- Apresentação -->
 ## <img src="./icons-readme/hello.gif" width="30px" height="30px"> Olá, Meu Nome é Gohara Junior
 
-<p>Trabalhei como designer por seis anos em uma empresa americana, e sempre estudei programação por conta própria para poder ingressar nessa área o mais rápido possível.</p>
+<p>Trabalhei como designer por seis anos em uma empresa americana e sempre estudei programação por conta própria para ingressar nessa área o mais rápido possível.</p>
 
-<p>Recebi uma oportunidade de trabalhar como programador em tempo integral, o que me fez crescer e expandir meus conhecimentos de fato.</p>
+<p>Recebi a oportunidade de trabalhar como programador em tempo integral, o que me permitiu crescer e ampliar meus conhecimentos de fato.</p>
 
-<p>Atualmente, atuo na implementação e aprimoramento de lojas de e-commerce. Durante a implementação, sempre busco seguir a prévia do projeto, procurando manter a perfeição em cada detalhe.</p>
-
-<p>Minha experiência em design me proporcionou mais independência na hora de criar algo, caso não haja uma prévia estabelecida pelo designer.</p>
-
-<p></p>
+<p>Atualmente, atuo na implementação e aprimoramento de lojas de e-commerce, seguindo a prévia do projeto durante a implementação e buscando manter a perfeição em cada detalhe.</p>
 
 ## ⚡ <strong>CMS ↴</strong>
 <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>&nbsp;
