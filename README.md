@@ -27,7 +27,6 @@
 ## ⚡ <strong>CMS ↴</strong>
 <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>&nbsp;
 
----
 ## 👨🏼‍💻 <strong>Tech Stack ↴</strong>
 
 <p align="left">
@@ -41,17 +40,8 @@
   <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>&nbsp;
 </p>
 
----
-
 ## 🛠 <strong>Ferramentas ↴</strong>
 <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat"></a>&nbsp;
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat"></a>&nbsp;
 <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat"></a>&nbsp;
 
----
-
-<h1 align="center">
-    <img width="200px" alt="Logo Agency Landing Page" src="https://user-images.githubusercontent.com/57417305/89026559-5010e780-d2ff-11ea-93e5-9731085ab2b1.gif" />
-    <img alt="Logo Agency Landing Page" src="./icons-readme/thanks.png" />
-    <img width="200px" alt="Logo Agency Landing Page" src="https://user-images.githubusercontent.com/57417305/89027087-42a82d00-d300-11ea-8396-9c567ef2266a.gif" />
-</h1>
