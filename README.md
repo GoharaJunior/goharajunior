@@ -1,16 +1,9 @@
-<!-- Gif Logo -->
-<p align="center">
-  <a href="">
-    <img src="https://user-images.githubusercontent.com/57417305/87222610-74eeec00-c34b-11ea-9803-00736d9ac97a.gif">
+<p>
+  <a href="https://gohara.netlify.app/" target="_blank">
+    <img src="./.github/capa-github.png" alt="Gohara Capa" border="0" width="100%">
   </a>
 </p>
-  &nbsp;
-<!-- Gif Traço -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
-</p>
 
-  &nbsp;
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/goharajunior/">
@@ -24,8 +17,9 @@
    &nbsp;
 </p>
 
-## ⚡ <strong>CMS ↴</strong>
-<a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>&nbsp;
+
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Gohara!
 
 ## 👨🏼‍💻 <strong>Tech Stack ↴</strong>
 
