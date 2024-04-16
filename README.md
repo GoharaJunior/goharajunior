@@ -27,6 +27,7 @@
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius: 4px"></a>&nbsp;
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius: 4px"></a>&nbsp;
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" style="border-radius: 4px"></a>&nbsp;
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" style="border-radius: 4px"></a>&nbsp;
   <a href="#"><img alt="Stylus" src="https://img.shields.io/badge/Stylus-333333.svg?style=for-the-badge&logo=Stylus&logoColor=white" style="border-radius: 4px"></a>&nbsp;
   <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" style="border-radius: 4px"></a>&nbsp;
   <a href="#"><img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" style="border-radius: 4px"></a>&nbsp;
