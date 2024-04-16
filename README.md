@@ -24,35 +24,17 @@
 ### 👨🏼‍💻 <strong>Skills</strong>
 
 <p align="left">
-  <a href="#">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius: 4px">
-  </a>&nbsp;
-  <a href="#">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius: 4px">
-  </a>&nbsp;
-  <a href="#">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" style="border-radius: 4px">
-  </a>&nbsp;
-  <a href="#">
-    <img alt="Stylus" src="https://img.shields.io/badge/Stylus-333333.svg?style=for-the-badge&logo=Stylus&logoColor=white" style="border-radius: 4px">
-  </a>&nbsp;
-  <a href="#">
-    <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" style="border-radius: 4px">
-  </a>&nbsp;
-  <a href="#">
-    <img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" style="border-radius: 4px">
-  </a>&nbsp;
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius: 4px"></a>&nbsp;
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius: 4px"></a>&nbsp;
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" style="border-radius: 4px"></a>&nbsp;
+  <a href="#"><img alt="Stylus" src="https://img.shields.io/badge/Stylus-333333.svg?style=for-the-badge&logo=Stylus&logoColor=white" style="border-radius: 4px"></a>&nbsp;
+  <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" style="border-radius: 4px"></a>&nbsp;
+  <a href="#"><img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" style="border-radius: 4px"></a>&nbsp;
   <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" style="border-radius: 4px"></a>&nbsp;
 </p>
 
 ### 🛠 <strong>Tools</strong>
-<a href="#">
-  <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" style="border-radius: 4px">
-</a>&nbsp;
-<a href="#">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat">
-</a>&nbsp;
-<a href="#">
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat">
-</a>&nbsp;
+<a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" style="border-radius: 4px"></a>&nbsp;
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"></a>&nbsp;
+<a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white"></a>&nbsp;
 
